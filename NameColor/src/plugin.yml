@@ -1,0 +1,8 @@
+name: NameColor
+version: 1.0
+main: net.savagereborn.namecolor.NameColor
+author: AstramG
+commands:
+  setNameColor:
+    usage: /setNameColor <color>
+    description: Sets your name color to whatever specified color!
